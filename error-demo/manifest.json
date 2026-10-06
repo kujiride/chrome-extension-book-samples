@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "エラーの見本（scripting を書き忘れ）",
+  "version": "1.0",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {},
+  "permissions": ["activeTab"]
+}

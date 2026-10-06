@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "押したら色を変える",
+  "version": "1.0",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {},
+  "permissions": ["activeTab", "scripting"]
+}
